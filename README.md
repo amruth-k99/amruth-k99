@@ -1,4 +1,4 @@
-### <h2>Hello World</h2> <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" width="40px">
+#### Hello World <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" width="40px">
 
 - 🔭 I’m currently working on ... <b>Web Project</b>
 - 🌱 I’m currently learning ... <b>AWS</b>
