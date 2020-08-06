@@ -1,4 +1,4 @@
-### Hello World 👋
+### Hello World <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" width="40px">
 
 
 **amruth-k99/amruth-k99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
