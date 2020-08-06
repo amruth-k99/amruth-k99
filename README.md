@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ... I love to break things<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/code-cat.gif" width="30px">, especially online. So, I'm learning to break them😄😄
 
 <img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="200px">
-<p style="text-align:center">Yeah, This could be me sometimes when I'm high with errors🤣🤣🤣</p>
+<p align="center">Yeah, This could be me sometimes when I'm high with errors🤣🤣🤣</p>
