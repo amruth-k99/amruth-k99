@@ -12,5 +12,5 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love to break things<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/code-cat.gif" width="30px">, especially online. So, I'm learning to break them😄😄
 
-<p align="center"><img src="https://acegif.com/wp-content/uploads/cat-typing-2.gif" width="500px"></p>
-<p align="center">Yeah, This could be me sometimes when I'm high on errors🤣🤣🤣</p>
+<p align="center"><img src="https://media2.giphy.com/media/l3vR85PnGsBwu1PFK/source.gif" width="500px"></p>
+<p align="center">Yeah, This could be me mostly🤣🤣🤣</p>
