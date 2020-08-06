@@ -1,7 +1,7 @@
 # Hello World <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" width="40px">
 
-## You have reached for Amruth Kuntamalla's Github.  
-  A few words that describe me: Script Kiddie💻, Web Developer, Security Enthusiast, Noob Cloud Developer🤣 
+## You have reached for Amruth Kuntamalla🐧's Github.  
+  Describe me: Script Kiddie💻, Web Developer🌐, Security Enthusiast🚩⚠️, Noob Cloud Developer☁️🤣 
 
 - 🔭 I’m currently working on ... <b>Web Project</b>
 - 🌱 I’m currently learning ... <b>AWS</b>
