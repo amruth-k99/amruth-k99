@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Python, JavaScript and React 
 - 📫 How to reach me: ...[Website](http://www.therealscripts.com/author)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love to break things, especially online. So, I'm learning to break them😄😄
+- ⚡ Fun fact: ... I love to break things<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/code-cat.gif" width="30px">, especially online. So, I'm learning to break them😄😄
 
