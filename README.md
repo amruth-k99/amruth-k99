@@ -1,9 +1,5 @@
 ### Hello World <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" width="40px">
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... <b>Web Project</b>
 - 🌱 I’m currently learning ... <b>AWS</b>
 - 👯 I’m looking to collaborate on ... Metasploit
