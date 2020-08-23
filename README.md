@@ -3,7 +3,7 @@
 ## You have reached for Amruth Kuntamalla🐧's Github.  
   Describe me: Script Kiddie💻, Web Developer🌐, Security Enthusiast🚩⚠️, Noob Cloud Developer☁️🤣 
 
-- 🔭 I’m currently working on ... <b>Web Project</b>
+- 🔭 I’m currently working on ... <b>Startup Idea</b>
 - 🌱 I’m currently learning ... <b>AWS</b>
 - 👯 I’m looking to collaborate on ... <b>Metasploit</b>
 - 🤔 I’m looking for help with ... Testing framework
