@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on ... <b>Startup Idea</b>
 - 🌱 I’m currently learning ... <b>AWS</b>
-- 👯 I’m looking to collaborate on ... <b>Metasploit</b>
-- 🤔 I’m looking for help with ... Testing framework
+- 👯 I’m looking to contribute to ... <b>Metasploit</b>
 - 💬 Ask me about ...<b> Python, JavaScript and React </b>
 - 📫 How to reach me: ...<b>[Website](http://www.therealscripts.com/author)</b>
 - ⚡ Fact: ... I love to break things<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/code-cat.gif" width="30px">, especially online. So, I'm learning to break them😄😄
