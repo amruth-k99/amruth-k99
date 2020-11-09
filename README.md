@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ... <b>Startup Idea</b>
 - 🌱 I’m currently learning ... <b>AWS</b>
 - 💬 Ask me about ...<b> Python, JavaScript and React </b>
-- 📫 How to reach me: ...<b>[Website](http://www.therealscripts.com/author)</b>
+- 📫 How to reach me: ...<b>[Website](https://therealscripts.com/author)</b>
 - ⚡ Fact: ... I love to break things<img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/code-cat.gif" width="30px">, especially online. So, I'm learning to break them😄😄
 
 <p align="center"><img src="https://media2.giphy.com/media/l3vR85PnGsBwu1PFK/source.gif" width="500px"></p>
