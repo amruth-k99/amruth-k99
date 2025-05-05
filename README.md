@@ -23,12 +23,14 @@ I'm **Amruth K**, a passionate **Data Analyst** and **Backend Developer** with a
 ---
 
 ## 🔧 Projects
-### 1. **Sales Analysis Dashboard**  
-- **Description**: Built an interactive dashboard using **Tableau** to visualize sales trends and identify top-performing products.  
+### 1. **Artfolio - Resume to Portfolio Maker**  
+- **Description**: **Artfolio** is a no-code platform that helps students and professionals transform their resumes into elegant, responsive portfolio websites in just a few clicks. Designed to boost visibility and job prospects, Artfolio simplifies the process of showcasing achievements online.
 - **Tech Stack**: Python (Pandas), SQL, Tableau  
 - **Highlights**:  
-  - Preprocessed and aggregated sales data for analysis.  
-  - Created dynamic, interactive dashboards to showcase trends and insights.
+  - 🧠 AI-powered resume parsing
+  - 🎨 Multiple portfolio templates
+  - ✍️ Editable content (projects, education, experience, skills)
+  - 📂 JSON-based portfolio generation
 
 ### 2. **E-Commerce Backend API**  
 - **Description**: Designed and implemented a **RESTful API** for an e-commerce platform using **Django**.  
@@ -37,18 +39,14 @@ I'm **Amruth K**, a passionate **Data Analyst** and **Backend Developer** with a
   - Included features like user authentication, product catalog, and order management.  
   - Deployed on **AWS EC2** using **Docker** for containerization.  
 
-### 3. **Customer Segmentation Analysis**  
-- **Description**: Applied **K-Means Clustering** on customer data to create segments based on purchasing patterns.  
-- **Tech Stack**: Python (Pandas, NumPy, Scikit-learn), Matplotlib, Seaborn  
+### 3. **Rhythms - Mobile Application**  
+- **Description**: **Rhythms** is a sleek, intuitive mobile application designed for dance enthusiasts and event organizers alike. Much like Eventbrite — but with rhythm — it enables users to **discover local and global dance events**, view event details, and **secure their spot** through seamless ticket booking.
+- **Tech Stack**: React Native, Node.js + Express, Firebase Authentication, Stripe, ANdroid + iOS 
 - **Highlights**:  
-  - Preprocessed and clustered customer data.  
-  - Visualized insights for marketing strategies.
-
-### 4. **Log Processing and Analysis**  
-- **Description**: Processed and analyzed server logs to detect anomalies and trends.  
-- **Tech Stack**: Python  
-- **Highlights**:  
-  - Automated reporting via cron job and email alerts.  
+  - 🔍 **Discover Events**: Filter by dance style, date, location, and popularity
+  - 📍 **Map Integration**: View events happening near you in real time
+  - 📄 **Event Details**: View timings, venue, performers, and other info
+  - 🎫 **Easy Booking**: Reserve or purchase tickets with in-app checkout 
 
 ---
 
