@@ -57,8 +57,8 @@ I'm **Amruth K**, a passionate **Data Analyst** and **Backend Developer** with a
 ---
 
 ## 🔗 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/amruthk99/))  
-- [Portfolio](https://your-portfolio-link.com](https://amruth.me/))  
+- [LinkedIn](https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/amruthk99/)  
+- [Portfolio](https://your-portfolio-link.com](https://amruth.me/)  
 - [Email](mailto:amruthk99@gmail.com)  
 
 
